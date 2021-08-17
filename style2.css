@@ -1,0 +1,40 @@
+body{
+    background-color: #e6f0ff;
+}
+nav{
+    text-align: center;
+    padding: 2%;
+}
+.boton{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial;
+    font-weight: 300;
+    font-size: 15px;
+    font-style: italic;
+    color: white;
+    background-color: #005ce6;
+    border-radius: 15px;
+    border: 3px double;
+}
+.boton:hover{
+    opacity: 0.6;
+    text-decoration: none;
+}
+.contenido{
+    font-family: 'Arial';
+}
+h1{
+    color: #001f4d;
+    font-size: 200%;
+}
+p{
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+    line-height: 150%;
+}

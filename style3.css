@@ -1,0 +1,91 @@
+nav{
+    text-align: center;
+    padding: 2%;
+}
+.boton{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial;
+    font-weight: 300;
+    font-size: 15px;
+    font-style: italic;
+    color: white;
+    background-color: #000000;
+    border-radius: 15px;
+    border: 3px double;
+}
+.boton:hover{
+    opacity: 0.6;
+    text-decoration: none;
+}
+.contenido{
+    font-family: 'Arial';
+}
+h1{
+    color: #000000;
+    font-size: 200%;
+}
+p{
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+    line-height: 150%;
+}
+.rojo{
+    padding: 1%;
+    background-color: #ff5c33;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.naranja{
+    padding: 1%;
+    background-color: #ff8533;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.amarillo{
+    padding: 1%;
+    background-color: #ffff80;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.verde{
+    padding: 1%;
+    background-color: #5cd65c;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.azul{
+    padding: 1%;
+    background-color: #3333ff;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.violeta{
+    padding: 1%;
+    background-color: #c266ff;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.rosa{
+    padding: 1%;
+    background-color: #ff66b3;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.negro{
+    padding: 1%;
+    background-color: #000000;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.blanco{
+    padding: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+}

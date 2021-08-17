@@ -1,0 +1,61 @@
+body{
+    background-color: #e6ffff;
+}
+nav{
+    text-align: center;
+    padding: 2%;
+}
+.boton{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial;
+    font-weight: 300;
+    font-size: 15px;
+    font-style: italic;
+    color: white;
+    background-color: #40bf40;
+    border-radius: 15px;
+    border: 3px double;
+}
+.boton:hover{
+    opacity: 0.6;
+    text-decoration: none;
+}
+.contenido{
+    font-family: 'Arial';
+}
+h1{
+    color: #006600;
+    font-size: 200%;
+}
+.rueda{
+    float: left;
+    margin-right: 20px;
+    width: 20%;
+    height: 15%;
+}
+.modelo{
+    float: right;
+    margin-left: 20px;
+    width: 30%;
+    height: 20%;
+}
+h2{
+    color: #006600;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+    line-height: 150%;
+}
+p{
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+    line-height: 150%;
+}
